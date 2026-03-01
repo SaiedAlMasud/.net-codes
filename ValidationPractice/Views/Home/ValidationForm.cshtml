@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "ValidationForm";
+}
+
+<h1>ValidationForm</h1>
+@Html.ValidationSummary();
+<form action="/" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name"> <br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"> <br><br>
+    <label for="dob">DOB:</label>
+    <input type="date" id="dob" name="dob"><br><br>
+    <label for="pass">Password:</label>
+    <input type="password" id="pass" name="pass"> <br><br>
+    <label for="cpass">Confirm Password:</label>
+    <input type="password" id="cpass" name="cpass">
+
+    <input type= "submit" name="submit"/>
+</form>
+

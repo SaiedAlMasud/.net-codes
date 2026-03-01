@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net codes\\ValidationPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\models\\validationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:models\\validationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\views\\home\\validationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:views\\home\\validationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationFormModel.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Models\\ValidationFormModel.cs",
+              "RelativeDocumentMoniker": "Models\\ValidationFormModel.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Models\\ValidationFormModel.cs",
+              "RelativeToolTip": "Models\\ValidationFormModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:58:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationForm.cshtml",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Views\\Home\\ValidationForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ValidationForm.cshtml",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Views\\Home\\ValidationForm.cshtml",
+              "RelativeToolTip": "Views\\Home\\ValidationForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T06:55:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T06:21:14.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
