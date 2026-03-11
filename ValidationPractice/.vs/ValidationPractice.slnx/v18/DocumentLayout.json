@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\.net codes\\ValidationPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\models\\validationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:models\\validationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\validationpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:validationpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\customvalidation\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:customvalidation\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\ef\\tables\\userdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:ef\\tables\\userdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\ef\\validationpracticecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:ef\\validationpracticecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\views\\home\\validationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:views\\home\\validationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|d:\\.net codes\\validationpractice\\customvalidation\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6487478-434D-1B7F-CA22-79CBA67BF508}|ValidationPractice.csproj|solutionrelative:customvalidation\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +50,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PastDateAttribute.cs",
-              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\CustomValidation\\PastDateAttribute.cs",
-              "RelativeDocumentMoniker": "CustomValidation\\PastDateAttribute.cs",
-              "ToolTip": "D:\\.net codes\\ValidationPractice\\CustomValidation\\PastDateAttribute.cs",
-              "RelativeToolTip": "CustomValidation\\PastDateAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T08:39:36.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidationPractice",
-              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\ValidationPractice.csproj",
-              "RelativeDocumentMoniker": "ValidationPractice.csproj",
-              "ToolTip": "D:\\.net codes\\ValidationPractice\\ValidationPractice.csproj*",
-              "RelativeToolTip": "ValidationPractice.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-01T08:38:49.163Z",
+              "WhenOpened": "2026-03-11T06:33:48.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValidationFormModel.cs",
-              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Models\\ValidationFormModel.cs",
-              "RelativeDocumentMoniker": "Models\\ValidationFormModel.cs",
-              "ToolTip": "D:\\.net codes\\ValidationPractice\\Models\\ValidationFormModel.cs",
-              "RelativeToolTip": "Models\\ValidationFormModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:58:02.22Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:31:41.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:25:35.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:59:01.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationPracticeContext.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\EF\\ValidationPracticeContext.cs",
+              "RelativeDocumentMoniker": "EF\\ValidationPracticeContext.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\EF\\ValidationPracticeContext.cs",
+              "RelativeToolTip": "EF\\ValidationPracticeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:47:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDatum.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\EF\\Tables\\UserDatum.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\UserDatum.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\EF\\Tables\\UserDatum.cs",
+              "RelativeToolTip": "EF\\Tables\\UserDatum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:44:02.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T13:42:24.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ValidationForm.cshtml",
               "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\Views\\Home\\ValidationForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ValidationForm.cshtml",
@@ -81,8 +149,7 @@
               "RelativeToolTip": "Views\\Home\\ValidationForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-01T06:55:09.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T06:55:09.096Z"
             },
             {
               "$type": "Document",
@@ -94,8 +161,19 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T06:21:14.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T06:21:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PastDateAttribute.cs",
+              "DocumentMoniker": "D:\\.net codes\\ValidationPractice\\CustomValidation\\PastDateAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidation\\PastDateAttribute.cs",
+              "ToolTip": "D:\\.net codes\\ValidationPractice\\CustomValidation\\PastDateAttribute.cs",
+              "RelativeToolTip": "CustomValidation\\PastDateAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:39:36.086Z"
             }
           ]
         }

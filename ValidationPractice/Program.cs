@@ -1,7 +1,19 @@
+using Microsoft.EntityFrameworkCore;
+using ValidationPractice.EF;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+// Register your DbContext
+builder.Services.AddDbContext<ValidationPracticeContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));
 
 var app = builder.Build();
 
@@ -22,7 +34,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=ValidationForm}/{id?}")
+    pattern: "{controller=Student}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 
